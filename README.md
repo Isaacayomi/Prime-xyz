@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h1>
-<h3 align="center">A Baby Frontend Developer</h3>
-
 - 🔭 I’m interested in **Web Development**
 
 - 🌱 I’m currently learning **Javascript**
