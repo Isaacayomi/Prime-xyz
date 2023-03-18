@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h1>
 <h3 align="center">I'm a baby frontend developer from Ogun State</h3>
-<img align="right" alt="baby frontend dev" width="400" src="https://wallpapers.com/images/featured/jtmjd4ifiqi7a48s.jpg">
+<img align="center" alt="baby frontend dev" width="400" src="https://wallpapers.com/images/featured/jtmjd4ifiqi7a48s.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prime-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="prime-xyz" /> </p>
 
