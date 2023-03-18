@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h1>
-- 🔭 I’m interested in **Web Development**
+- 🔭 I’m interested in **Web-Development**
 
 - 🌱 I’m currently learning **Javascript**
 
