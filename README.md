@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h1>
-<h3 align="center">I'm a baby frontend developer from Ogun State</h3>
-<img align="center" alt="baby frontend dev" width="400" src="https://wallpapers.com/images/featured/jtmjd4ifiqi7a48s.jpg">
-
+<h3 align="center">A Baby Frontend Developer</h3>
 
 - 🔭 I’m interested in **Web Development**
 
