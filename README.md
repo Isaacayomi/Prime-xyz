@@ -16,7 +16,7 @@
 
 I am proficient in the following programming languages:
 
-<img src="https://www.flaticon.com/free-icon/html_logo_2909213.jpg" alt="HTML logo" width="40" height="40"> HTML
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HTML5_Badge.svg/220px-HTML5_Badge.svg.png"> 
 
 <img src="https://www.flaticon.com/free-icon/css-3_2747278.jpg" width="40" height="40"> CSS
 
