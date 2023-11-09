@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 I am proficient in the following languages:
-<div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 2rem;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"> 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldO4jBqcWUfcRF9VesZuypiEysn6mN7ypb8kUa3_eHo1vCZoRYK4Kw5ySnObyTkVwn3k&usqp=CAU" width="40" height="40">
