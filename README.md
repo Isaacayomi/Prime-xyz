@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **A lover of mobile games and animes.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 I am proficient in the following languages:
 <div style="display: flex; align-items: center; justify-content: center; gap: 5rem;">
@@ -27,7 +27,7 @@ I am proficient in the following languages:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="React logo" width="40" height="40">
 </div>
 
-<h1 align ="left">TOOLS I WORK WITH:</h1>
+<h2 align ="left">Tools i work with:</h1>
 I use the following tools for my development work:
 <div style="display: flex; justify-content: center; align-items: center; gap: 4rem;">
 <img src="https://camo.githubusercontent.com/34c742062ec1c349330157c064fecd92e48cf58718b64de59572717ad47fe76e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3132303070782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="Visual Studio Code logo" width="40" height="40"> 
