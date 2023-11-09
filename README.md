@@ -12,10 +12,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-## Languages
-
 I am proficient in the following languages:
-
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"> 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldO4jBqcWUfcRF9VesZuypiEysn6mN7ypb8kUa3_eHo1vCZoRYK4Kw5ySnObyTkVwn3k&usqp=CAU" width="40" height="40">
@@ -27,6 +25,7 @@ I am proficient in the following languages:
 <img src="https://repository-images.githubusercontent.com/584068292/2445b500-869d-498e-ae47-2a3e5820e3c5" alt="JavaScript logo" width="40" height="40"> 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="React logo" width="40" height="40">
+</div>
 ## Tools
 
 I use the following tools for my development work:
