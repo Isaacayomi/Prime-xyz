@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 I am proficient in the following languages:
-<div style="display: flex; align-items: center; justify-content: center; gap: 2rem;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 5rem;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40"> 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldO4jBqcWUfcRF9VesZuypiEysn6mN7ypb8kUa3_eHo1vCZoRYK4Kw5ySnObyTkVwn3k&usqp=CAU" width="40" height="40">
@@ -30,7 +30,7 @@ I am proficient in the following languages:
 
 I use the following tools for my development work:
 
-<img src="https://code.visualstudio.com/assets/icon-48x48@2.png" alt="Visual Studio Code logo"> Visual Studio Code
+<img src="https://camo.githubusercontent.com/34c742062ec1c349330157c064fecd92e48cf58718b64de59572717ad47fe76e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3132303070782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="Visual Studio Code logo" width="40" height="40"> Visual Studio Code
  </p>
 
 
