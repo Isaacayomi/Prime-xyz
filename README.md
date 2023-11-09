@@ -22,7 +22,7 @@ I am proficient in the following languages:
 
 <img src="https://tailwindcss.com/img/tailwind-mark.svg" alt="Tailwind logo" width="40" height="40"> Tailwind
 
-<img src="https://icons.co/icon/scss-132891/256x256" alt="SCSS logo" width="40" height="40"> SCSS
+<img src="https://camo.githubusercontent.com/6f4d1d6d07d88966968247c0a88ebf418732b7ddb49ff7d67404bf1a20ebbc8e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f736173732d312e737667" alt="SCSS logo" width="40" height="40"> SCSS
 
 <img src="https://www.flaticon.com/free-icon/javascript_2124145.jpg" alt="JavaScript logo" width="40" height="40"> JavaScript
 
