@@ -26,12 +26,16 @@ I am proficient in the following languages:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="React logo" width="40" height="40">
 </div>
-## Tools
 
+<h1 align ="left">TOOLS I WORK WITH:</h1>
 I use the following tools for my development work:
+<div style="display: flex; justify-content: center; align-items: center; gap: 4rem;">
+<img src="https://camo.githubusercontent.com/34c742062ec1c349330157c064fecd92e48cf58718b64de59572717ad47fe76e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3132303070782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="Visual Studio Code logo" width="40" height="40"> 
 
-<img src="https://camo.githubusercontent.com/34c742062ec1c349330157c064fecd92e48cf58718b64de59572717ad47fe76e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3132303070782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="Visual Studio Code logo" width="40" height="40"> Visual Studio Code
+<img src ="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Github logo" width="40" height = "40">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git logo" width="40" height = "40">
+
  </p>
-
+</div>
 
 
