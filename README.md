@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h1>
+<h2 align="center" style="font-weight: bolder;">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h2>
 
 - 🔭 I’m interested in **Web-Development && Open Source**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **okunlolaa3@gmail.com**
 
-- ⚡ Fun fact **A lover of mobile games and animes.**
+- ⚡ Fun fact **A touch typise, lover of mobile games and animes.**
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
