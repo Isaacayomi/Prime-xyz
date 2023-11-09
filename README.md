@@ -2,19 +2,19 @@
 
 - 🔭 I’m interested in **Web-Development && Open Source**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate **with anyone in web development field**
 
 - 📫 How to reach me **okunlolaa3@gmail.com**
 
-- ⚡ Fun fact **A lover of mobile games and anime movies.**
+- ⚡ Fun fact **A lover of mobile games and animes.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-## Programming Languages
+## Languages
 
-I am proficient in the following programming languages:
+I am proficient in the following languages:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/HTML5_Badge.svg/220px-HTML5_Badge.svg.png"> 
 
