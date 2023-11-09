@@ -1,14 +1,12 @@
 <h2 align="center" style="font-weight: bolder;">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h2>
+<ul>
 
-- 🔭 I’m interested in **Web-Development && Open Source**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate **with anyone in web development field**
-
-- 📫 How to reach me **okunlolaa3@gmail.com**
-
-- ⚡ Fun fact **A touch typist, lover of mobile games and animes.**
+ <li> 🌱 I’m currently learning **Frontend Developement(React)** </li>
+ <li> 👯 I’m looking to collaborate **with anyone in web development field** </li>
+ <li> 👯 I’m interested in **open source** too. </li>
+ <li> 📫 How to reach me **okunlolaa3@gmail.com** </li>
+ <li> Fun fact **A Touch Typist.** </li>
+</ul>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
