@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **okunlolaa3@gmail.com**
 
-- ⚡ Fun fact **A touch typise, lover of mobile games and animes.**
+- ⚡ Fun fact **A touch typist, lover of mobile games and animes.**
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
