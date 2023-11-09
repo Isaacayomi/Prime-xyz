@@ -20,7 +20,7 @@ I am proficient in the following languages:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldO4jBqcWUfcRF9VesZuypiEysn6mN7ypb8kUa3_eHo1vCZoRYK4Kw5ySnObyTkVwn3k&usqp=CAU" width="40" height="40">
 
-<img src="https://tailwindcss.com/img/tailwind-mark.svg" alt="Tailwind logo" width="40" height="40"> Tailwind
+<img src="https://avatars.githubusercontent.com/u/30317862?s=280&v=4" alt="Tailwind logo" width="40" height="40">
 
 <img src="https://camo.githubusercontent.com/6f4d1d6d07d88966968247c0a88ebf418732b7ddb49ff7d67404bf1a20ebbc8e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f736173732d312e737667" alt="SCSS logo" width="40" height="40">
 
