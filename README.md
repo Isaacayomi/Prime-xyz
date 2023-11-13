@@ -1,7 +1,7 @@
 <h2 align="center" style="font-weight: bolder;">Hi 👋, I'm Isaac Ayomide Okunlola (Prime)</h2>
 <ul>
 
- <li> 🌱 I’m currently learning <strong>Frontend Developement(React)<strong> </li>
+ <li> 🌱 I’m currently learning <strong>Frontend Development(React)<strong> </li>
  <li> 👯 I’m looking to collaborate with anyone in <strong> web development field</strong>  </li>
  <li> 👯 I’m interested in <strong>open source</strong> too. </li>
  <li> 📫 How to reach me <strong><a href="mailto:okunlolaa3@gmail.com">okunlolaa3@gmail.com</a></strong> </li>
